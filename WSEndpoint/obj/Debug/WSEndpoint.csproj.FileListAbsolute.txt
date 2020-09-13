@@ -1,0 +1,12 @@
+C:\Users\hunte\source\repos\WSEndpoint\WSEndpoint\bin\Debug\WSEndpoint.exe.config
+C:\Users\hunte\source\repos\WSEndpoint\WSEndpoint\bin\Debug\WSEndpoint.exe
+C:\Users\hunte\source\repos\WSEndpoint\WSEndpoint\bin\Debug\WSEndpoint.pdb
+C:\Users\hunte\source\repos\WSEndpoint\WSEndpoint\obj\Debug\WSEndpoint.csprojAssemblyReference.cache
+C:\Users\hunte\source\repos\WSEndpoint\WSEndpoint\obj\Debug\WSEndpoint.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\WSEndpoint\WSEndpoint\obj\Debug\WSEndpoint.exe
+C:\Users\hunte\source\repos\WSEndpoint\WSEndpoint\obj\Debug\WSEndpoint.pdb
+C:\Users\hunte\source\repos\WSEndpoint\WSEndpoint\bin\Debug\websocket-sharp.dll
+C:\Users\hunte\source\repos\WSEndpoint\WSEndpoint\bin\Debug\websocket-sharp.xml
+C:\Users\hunte\source\repos\WSEndpoint\WSEndpoint\obj\Debug\WSEndpoint.csproj.CopyComplete
+C:\Users\hunte\source\repos\WSEndpoint\WSEndpoint\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hunte\source\repos\WSEndpoint\WSEndpoint\bin\Debug\Newtonsoft.Json.xml
